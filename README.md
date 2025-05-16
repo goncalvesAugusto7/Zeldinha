@@ -1,2 +1,2 @@
 # Zeldinha
-A little little game Zelda like using java
+A little little Zelda game like using java
